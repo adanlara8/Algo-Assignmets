@@ -1,0 +1,2 @@
+customers will be able to register an account or login in to order a dish and the type of meat they would like. They will also be able to view past orders and favorite dishes, and review thier current order . As well as update their information or delete their profile.
+(optionals)I would also like to give the owner of the restaurant the ability to remove users and Adding/deleting and updating the menu, and perhaps ading a payment method.
